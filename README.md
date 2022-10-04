@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # social-media-blog
 =======
 # Getting Started with Create React App
